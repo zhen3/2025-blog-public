@@ -12,5 +12,5 @@ export const GITHUB_CONFIG = {
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog-public',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2524211',
-	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || 'Iv23li4QpygvpmQ5neZM',
+	ENCRYPT_KEY: process.env.NEXT_PUBLIC_GITHUB_ENCRYPT_KEY || '35e85ef4f025db9cad00fa41a60349a2f792097d',
 } as const
